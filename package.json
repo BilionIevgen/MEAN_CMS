@@ -1,0 +1,28 @@
+{
+  "name": "cms",
+  "version": "1.0.0",
+  "description": "mean stack",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BilionIevgen/MEAN_CMS.git"
+  },
+  "keywords": [
+    "node",
+    "angular",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BilionIevgen/MEAN_CMS/issues"
+  },
+  "homepage": "https://github.com/BilionIevgen/MEAN_CMS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
